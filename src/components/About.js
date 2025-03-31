@@ -1,12 +1,14 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import teamImage1 from '../assets/images/random.jpg'; // Replace with actual images
-import teamImage2 from '../assets/images/random.jpg';
-import teamImage3 from '../assets/images/random.jpg';
-import teamImage4 from '../assets/images/random.jpg';
-import teamImage5 from '../assets/images/random.jpg';
+import teamImage1 from '../assets/images/rahul.jpg';
+import teamImage2 from '../assets/images/niki.jpg';
+import teamImage3 from '../assets/images/guru.jpg';
+import teamImage4 from '../assets/images/pragathi.jpg';
+import teamImage5 from '../assets/images/shakeer.jpg';
+import teamImage6 from '../assets/images/rampraveen.jpg';
+import teamImage7 from '../assets/images/yuva.jpg';
 
-const teamImages = [teamImage1, teamImage2, teamImage3, teamImage4, teamImage5];
+const teamImages = [teamImage1, teamImage2, teamImage3, teamImage4, teamImage5,teamImage6,teamImage7];
 
 const About = () => {
   return (
